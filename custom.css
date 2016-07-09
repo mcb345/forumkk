@@ -1,0 +1,42 @@
+.panel-heading{
+    padding: 20px 15px;
+    background-color: #464950 !important;
+    color: white !important;
+}
+
+.panel-title{
+    font-size: 14px;
+}
+
+.cm-thread{
+    
+}
+
+.cm-threadlogo{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+    background-color: #F1F1F1;
+}
+
+.cm-threadtitle{
+    padding-top: 0.6vw;
+    color: #939393;
+}
+.cm-threadtitle>h4{
+    color: black;
+}
+
+.cm-threadtopic{
+    padding-top: 0.6vw;
+    color: #939393;
+}
+
+.cm-threadpost{
+    padding-top: 0.6vw;
+    color: #939393;
+}
+
+.cm-threadlatest{
+    padding-top: 0.6vw;
+    color: #939393;
+}
