@@ -40,3 +40,17 @@
     padding-top: 0.6vw;
     color: #939393;
 }
+
+.cm-loginbox{
+    width: 260px;
+    height: 260px;
+    border: 1px solid #EAEAEA;
+    border-radius: 5px;
+    background-color: white;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.cm-formpadding{
+    margin-top: 0.6vw;
+}
